@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... School
 - 🌱 I’m currently learning ... JoppyScript
 - 💞️ I’m looking to collaborate on ... CMPM Projects
-- 📫 How to reach me ... you don't.
+- 📫 How to reach me ... you don't. I contact you.
 
 <!---
 jlhuggins03/jlhuggins03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
